@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 
 * {
   padding: 0;
@@ -7,7 +7,7 @@
 }
 
 body {
-font-family: 'Lato', sans-serif;
+  font-family: 'Mochiy Pop P One', sans-serif;
 }
 
 .app {
@@ -35,4 +35,12 @@ ul {
   margin-bottom: 15px;
   padding: 15px;
   border-radius: 5px;
+}
+
+.task-input {
+  width: 50%;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  border: none;
 }
